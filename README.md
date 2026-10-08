@@ -15,7 +15,7 @@ Library or the open Batch — the moment the export finishes.
 
 For **macOS and Linux**. So far it has only been tested on macOS.
 
-## Logik Backdoor (required first)
+## Logik Backdoor (Required)
 
 This integration does not talk to Flame directly. It relies on **Logik
 Backdoor**, a small bridge that runs inside Flame. Install that first:
